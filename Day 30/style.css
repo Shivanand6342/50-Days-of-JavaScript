@@ -18,14 +18,14 @@ body{
 
 div{
     position: absolute;
-    bottom: 200px;
+    bottom: 100px;
     background: rgba(0, 0, 0, 0.1);
     padding: 10px 20px;
     font-size: 18px;
 }
 
 h3{
-    padding-bottom: 40px;
+    padding-bottom: 30px;
 }
 
 input{
